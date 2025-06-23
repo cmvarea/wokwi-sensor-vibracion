@@ -1,0 +1,11 @@
+{
+  "name": "Sensor de Vibración",
+  "version": 1,
+  "author": "Carlos M. Varea",
+  "pins": [
+    { "name": "VCC", "type": "power" },
+    { "name": "GND", "type": "ground" },
+    { "name": "OUT", "type": "digital", "direction": "output" }
+  ],
+  "attrs": []
+}
